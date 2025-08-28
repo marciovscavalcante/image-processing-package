@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: image-processing-marciocavalcante
+Version: 0.0.1
+Summary: A package for image processing tasks
+Home-page: https://github.com/marciovscavalcante/image-processing-package
+Author: Marcio Cavalcante
+Author-email: marciovscavalcante@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+
+# image-processing
+
+### Description. 
+The package image-processing is used to:
+	Processing:
+		- Histogram matching
+		- Structural similarity
+		- Resize image
+	Utils:
+		- Read image
+		- Save Image
+		- Plot image
+		- Plot result
+		- Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image-processing
+```
+## Author
+Marcio Cavalcante
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
